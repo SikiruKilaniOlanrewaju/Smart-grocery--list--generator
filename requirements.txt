@@ -1,0 +1,6 @@
+# requirements.txt
+# List your Python dependencies here
+Flask
+streamlit
+sqlalchemy
+streamlit-authenticator==0.2.2
